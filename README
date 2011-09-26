@@ -1,7 +1,7 @@
 Devise Rspec Cucumber Templateapp
 ========================
+Template app that has: Rspec sause + cucumber soupe + devise chili to form a great mix of for a template app!
+Other species included in this recipie are: HAML, Guard, HTML Boilerplate
 
-
-________________________
-
-License
+/Americo
+Template based on the cool site: https://github.com/americos/rails3_devise_rspec_cucumber_templateApp
